@@ -1,0 +1,114 @@
+{
+"moreApps" :[
+{
+  "name": "New Year Day",
+  "date": "1st Jan Wednesday",
+  "url": "https://via.placeholder.com/150",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Guru Govind Singh Jayanti",
+  "date": "2nd Jan Thursday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Lohri",
+  "date": "14 Jan Tuesday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Makar Sankranti",
+  "date": "15 Jan Wednesday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Chinese New Year",
+  "date": "25 Jan Saturday",
+  "url": "www.google.com",
+  "url_image" : "https://www.google.com"
+}, {
+  "name": "Republic Day",
+  "date": "26 Jan Sunday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Shivaji Jayanti",
+  "date": "19 Feb Wednesday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Maha Shivaratri/Shivaratri",
+  "date": "21 Feb Friday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Holi",
+  "date": "10 Mar Tuesday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "March Equinox",
+  "date": "20 Mar Friday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Rama Navami",
+  "date": "2 Apr Thursday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Mahavir Jayanti",
+  "date": "6 Apr Monday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Good Friday",
+  "date": "10 Apr Friday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Easter Day",
+  "date": "12 Apr Sunday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Vaisakhi",
+  "date": "13 Apr Monday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Buddha Purnima/Vesak",
+  "date": "7 May Thursday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Father's Day",
+  "date": "21 Jun Sunday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Independence Day",
+  "date": "15 Aug Saturday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Parsi New Year",
+  "date": "16 Aug Sunday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Halloween",
+  "date": "31 Oct Saturday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Diwali/Deepavali",
+  "date": "14 Nov Saturday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}, {
+  "name": "Hanukkah",
+  "date": "11 Dec Friday",
+  "url": "www.google.com",
+  "url_image" : "https://via.placeholder.com/150"
+}]
+}
