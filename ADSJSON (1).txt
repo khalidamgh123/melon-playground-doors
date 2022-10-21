@@ -1,9 +1,9 @@
 {
 	"ADS": {
-		 "rewarde_type": "ironsource",
-		"native_type": "yandex",
-		"inter_type": "ironsource",
-		"banner_type": "yandex",
+		 "rewarde_type": "admob",
+		"native_type": "admob",
+		"inter_type": "admob",
+		"banner_type": "admob",
 
 		"cpa_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
 		"cpa_title": "admob",
