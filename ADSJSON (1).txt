@@ -1,9 +1,9 @@
 {
 	"ADS": {
-		 "rewarde_type": "admob",
-		"native_type": "admob",
-		"inter_type": "admob",
-		"banner_type": "admob",
+		 "rewarde_type": "unity",
+		"native_type": "yandex",
+		"inter_type": "ironsource",
+		"banner_type": "yandex",
 
 		"cpa_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
 		"cpa_title": "admob",
@@ -18,11 +18,11 @@
 		"cpa_popup_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
 		"cpa_popup_time": 10000,
 
-		"unity_id": "4292105",
+		"unity_id": "4973453",
 
 		"appodeal_app_key": "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
 
-		"ironsource_id": "16548931d",
+		"ironsource_id": "165485995",
 
 		"interstitial_yandex": "adf-279013/966533",
 		"banner_yandex": "R-M-1962580-3",
