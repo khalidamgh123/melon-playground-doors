@@ -3,7 +3,7 @@
 		 "rewarde_type": "admob",
 		"native_type": "admob",
 		"inter_type": "admob",
-		"banner_type": "yandex",
+		"banner_type": "admob",
 
 		"cpa_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
 		"cpa_title": "admob",
@@ -36,9 +36,9 @@
 		"rewarde_yandex_2": "adf-279013/966533",
 		
 
-		"interstitial_admob": "ca-app-pub-2341993601826777/9373016115",
+		"interstitial_admob": "ca-app-pub-2081765257706043/8400894964",
 		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
-		"native_admob": "ca-app-pub-2341993601826777/4365120060",
+		"native_admob": "ca-app-pub-2081765257706043/8209323276",
 		"rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
 		"open_ad_admob": "ca-app-pub-3940256099942544/3419835294",
 
