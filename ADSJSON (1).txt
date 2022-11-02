@@ -1,9 +1,9 @@
 {
 	"ADS": {
-		 "rewarde_type": "admob",
-		"native_type": "admob",
-		"inter_type": "admob",
-		"banner_type": "admob",
+		 "rewarde_type": "yandex",
+		"native_type": "yandex",
+		"inter_type": "yandex",
+		"banner_type": "yandex",
 
 		"cpa_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
 		"cpa_title": "admob",
@@ -16,38 +16,38 @@
 		"cpa_popup_title": "admob",
 		"CpaPopUpSousTitle": "admob",
 		"cpa_popup_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
-		"cpa_popup_time": 10000,
+		"cpa_popup_time": 1000000,
 
-		"unity_id": "4973453",
+		"unity_id": "4292105",
 
 		"appodeal_app_key": "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
 
-		"ironsource_id": "165485995",
+		"ironsource_id": "12824078d",
 
-		"interstitial_yandex": "adf-279013/966533",
+		"interstitial_yandex": "R-M-1962580-2",
 		"banner_yandex": "R-M-1962580-3",
 		"native_yandex": "R-M-1962580-1",
-		"rewarde_yandex": "adf-279013/966487",
+		"rewarde_yandex": "R-M-1962580-4",
 
-		"interstitial_yandex_1": "adf-279013/966533",
-		"rewarde_yandex_1": "adf-279013/966533",
+		"interstitial_yandex_1": "R-M-1962580-2",
+		"rewarde_yandex_1": "R-M-1962580-4",
 
-		"interstitial_yandex_2": "adf-279013/966533",
-		"rewarde_yandex_2": "adf-279013/966533",
+		"interstitial_yandex_2": "R-M-1962580-2",
+		"rewarde_yandex_2": "R-M-1962580-4",
 		
 
-		"interstitial_admob": "ca-app-pub-2081765257706043/8400894964",
+		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
 		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
-		"native_admob": "ca-app-pub-2081765257706043/8209323276",
+		"native_admob": "ca-app-pub-3940256099942544/2247696110",
 		"rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
 		"open_ad_admob": "ca-app-pub-3940256099942544/3419835294",
 
-		"interstitial_admob1": "ca-app-pub-2341993601826777/9373016115",
-		"native_admob1": "ca-app-pub-2341993601826777/4365120060",
+		"interstitial_admob1": "ca-app-p12",
+		"native_admob1": "ca-app-pub-567",
 		"rewarde_admob1": "ca-app-pub-3940256099942544/5354046379",
 
-		"interstitial_admob2": "ca-app-pub-2341993601826777/9373016115",
-		"native_admob2": "ca-app-pub-2341993601826777/4365120060",
+		"interstitial_admob2": "ca-app-pub-3940256099942544/1033173712",
+		"native_admob2": "ca-app-pub-567",
 		"rewarde_admob2": "ca-app-pub-3940256099942544/5354046379",
 
 		"applovin_interstitial": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
