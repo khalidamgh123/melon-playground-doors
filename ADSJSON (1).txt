@@ -24,10 +24,10 @@
 
 		"ironsource_id": "12824078d",
 
-		"interstitial_yandex": "R-M-2006848-3",
-		"banner_yandex": "R-M-2006848-1",
-		"native_yandex": "R-M-2006848-2",
-		"rewarde_yandex": "R-M-2006848-4",
+		"interstitial_yandex": "R-M-2007033-3",
+		"banner_yandex": "R-M-2007033-1",
+		"native_yandex": "R-M-2007033-2",
+		"rewarde_yandex": "R-M-2007033-4",
 
 		"interstitial_yandex_1": "R-M-1962580-2",
 		"rewarde_yandex_1": "R-M-1962580-4",
